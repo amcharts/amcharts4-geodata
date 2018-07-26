@@ -16,8 +16,10 @@ Put contents of this package into your `amcharts4/geodata` folder.
 
 |Directory|Description|
 |---------|-----------|
-|/geodata/|Map files in relevant format (depending on where this package came from)|
-|/geodata/json/|Versions of the map files in plain GeoJSON format|
+|/dist/es2015/|Map files as modules|
+|/dist/es2015/json/|Versions of the map files in plain GeoJSON format|
+|/dist/script/|Map files as JavaScript inlcudes|
+|/dist/script/json/|Versions of the map files in plain GeoJSON format|
 
 
 ### Documentation
@@ -28,9 +30,10 @@ as class reference visit [V4 documentation website](https://www.amcharts.com/doc
 
 ### Other ways to get amCharts 4 library and related geodata
 
-* [NPM package (amCharts 4 library)](https://www.npmjs.com/package/@amcharts/amcharts4)
+* [NPM package (library)](https://www.npmjs.com/package/@amcharts/amcharts4)
 * [NPM package (geodata)](https://www.npmjs.com/package/@amcharts/amcharts4-geodata)
-* [GitHub repository](https://github.com/amcharts/amcharts4)
+* [GitHub repository (library)](https://github.com/amcharts/amcharts4)
+* [GitHub repository (geodata)](https://github.com/amcharts/amcharts4-geodata)
 * [ZIP download](https://www.amcharts.com/download/download-v4/)
 
 
