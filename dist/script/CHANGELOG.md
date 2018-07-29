@@ -3,6 +3,14 @@
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [4.0.7] - 2018-07-29
+
+### Added
+- New maps: World map (India version), United Nations World Regions map, United Kindom, United Kindom Counties, India.
+
+### Changed
+- Increased detail of World map (high-detail version)
+
 ## [4.0.6] - 2018-07-26
 
 ### Added
