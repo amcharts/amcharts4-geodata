@@ -3,6 +3,11 @@
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [4.0.10] - 2018-09-01
+
+### Added
+- New maps: Bermuda, Israel (two versions: w/ Palestine subdivisions and Palestine as a single unit), Palestine, Cambodia, Cameroon, Cape Verdi, Central African Republic, Chad, Channel Islands, Chile, Colombia, Congo, Congo (Democratic Republic), Costa Rica, Croatia, Czech Republic, Denmark, Djibouti, Dominican Republic, Dominican Republic (Municipalities).
+
 ## [4.0.9] - 2018-08-13
 
 ### Added
