@@ -3,6 +3,14 @@
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [4.0.11] - 2018-09-18
+
+### Added
+- New maps: Ecuador, Egypt, El Salvador, Estonia, Eswatini (Swaziland), Faroe Islands, Fiji (East and West), Finland, French Guiana, Georgia (2 versions), Greece, Greenland, Guinea, Honduras, Hong Kong, Hungary, Iceland, Ireland, Italy.
+
+### Removed
+- `usa2*` maps that were invalid. Use `usaAlbers*` instead.
+
 ## [4.0.10] - 2018-09-01
 
 ### Added
