@@ -8,6 +8,7 @@ declare const _default: {
         };
         "properties": {
             "id": string;
+            "name": string;
         };
         "id": string;
     }[];

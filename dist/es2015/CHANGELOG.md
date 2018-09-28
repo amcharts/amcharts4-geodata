@@ -3,6 +3,14 @@
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [4.0.12] - 2018-09-28
+
+### Added
+- U.S. county maps added to sub-folder `/region/usa/`. In JavaScript these maps are available in global variable `am4geodata_region_usa_*`, e.g. `am4geodata_region_usa_akLow` for a file `geodata/region/usa/akLow.js`.
+
+### Fixed
+- Added "name" attributes to polygons in `continents*` maps.
+
 ## [4.0.11] - 2018-09-18
 
 ### Added
