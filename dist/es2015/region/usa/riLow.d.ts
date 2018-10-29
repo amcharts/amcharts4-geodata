@@ -10,7 +10,6 @@ declare const _default: {
             "name": string;
             "id": string;
             "STATE": string;
-            "FIPS": string;
             "TYPE": string;
             "CNTRY": string;
         };
@@ -25,7 +24,6 @@ declare const _default: {
             "name": string;
             "id": string;
             "STATE": string;
-            "FIPS": string;
             "TYPE": string;
             "CNTRY": string;
         };

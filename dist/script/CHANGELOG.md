@@ -3,6 +3,11 @@
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [4.0.14] - 2018-10-29
+
+### Changed
+- IMPORTANT! The area IDids have been changed in U.S. County maps (`geodata/regions/usa`) to support latest 5-digit FIPS standard (XXYYY where XX is number code of the state and YYY is code for the county).
+
 ## [4.0.13] - 2018-10-01
 
 ### Fixed
