@@ -4,12 +4,12 @@ declare const _default: {
         "type": string;
         "geometry": {
             "type": string;
-            "coordinates": number[][][][];
+            "coordinates": number[][][];
         };
         "properties": {
             "name": string;
             "id": string;
-            "CNTRY_NAME": string;
+            "CNTRYNAME": string;
             "TYPE": string;
         };
         "id": string;
@@ -17,12 +17,12 @@ declare const _default: {
         "type": string;
         "geometry": {
             "type": string;
-            "coordinates": number[][][];
+            "coordinates": number[][][][];
         };
         "properties": {
             "name": string;
             "id": string;
-            "CNTRY_NAME": string;
+            "CNTRYNAME": string;
             "TYPE": string;
         };
         "id": string;
