@@ -3,6 +3,14 @@
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [4.0.21] - 2018-12-02
+
+### Added
+- New maps: Colombia (municipalities), Kazakhstan, Kyrgyzstan, Latvia, Liechtenstein, Lithuania, Malaysia, Morocco, Portugal (including map for regions), Puerto Rico, Panama.
+
+### Fixed
+- Some coastal tweaks in `world*` maps.
+
 ## [4.0.20] - 2018-11-18
 
 ### Fixed
