@@ -7,8 +7,8 @@ declare const _default: {
             "coordinates": number[][][][];
         };
         "properties": {
-            "id": string;
             "name": string;
+            "id": string;
         };
         "id": string;
     }[];

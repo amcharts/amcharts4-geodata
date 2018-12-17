@@ -3,6 +3,17 @@
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [4.0.22] - 2018-12-17
+
+### Added
+- New country maps: Mali, Malta, Moldova, Mongolia, Namibia, Poland.
+- New world regions maps (look in `region/world`): Africa, Asia, Caribbean, Central America, Europe, Latin America, Middle East, North America, Oceania, South America, World Regions.
+- Two new continents map versions: all of Russia in Asia, all of russia in Europe.
+
+### Fixed
+- Fixed all world maps that were lacking Tuvalu.
+- Fixed duplicate ids in maps of Argentina.
+
 ## [4.0.21] - 2018-12-02
 
 ### Added

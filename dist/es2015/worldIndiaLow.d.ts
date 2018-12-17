@@ -4,7 +4,7 @@ declare const _default: {
         "type": string;
         "geometry": {
             "type": string;
-            "coordinates": number[][][][];
+            "coordinates": number[][][];
         };
         "properties": {
             "name": string;
@@ -15,7 +15,7 @@ declare const _default: {
         "type": string;
         "geometry": {
             "type": string;
-            "coordinates": number[][][];
+            "coordinates": number[][][][];
         };
         "properties": {
             "name": string;
