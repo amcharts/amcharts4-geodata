@@ -3,6 +3,14 @@
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [4.0.30] - 2019-01-28
+
+### Added
+- New maps: Bosnia Herzegovina (two versions), Cyprus (two versions), Dominica, Kosovo, Philippines, Serbia (two versions), Tunisia, Turkey, United Arab Emyrates, Ukraine, Uzbekistan, Vatikan City, Venezuela, Vietnam, Yemen, Zambia, Zimbabwe.
+
+### Fixed
+- Fixed spelling of "Warmińsko-Mazurskie" region in maps of Poland.
+
 ## [4.0.29] - 2019-01-22
 
 ### Fixed
