@@ -3,6 +3,11 @@
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [4.1.0] - 2019-01-30
+
+### Changed
+- Standalone scripts were recompiled to use unique Webpack scope, to avoid conflicts with other Webpack packages. To avoid breakage, make sure you update to 4.1 version of main amCharts 4 package as well.
+
 ## [4.0.30] - 2019-01-28
 
 ### Added
