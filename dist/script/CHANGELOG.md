@@ -3,6 +3,12 @@
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [4.1.12] - 2020-02-17
+
+### Added
+- New maps: Bahamas, Eritrea, Ethiopia, Gambia, Ghana, Guinea Bissau, Guyana, Kuwait, Laos, Libya, Luxembourg, Madagascar (province and region), Mozambique, Myanmar, Niger, North Macedonia, Rwanda, Sierra Leone, Suriname, Togo, Turkmenistan.
+
+
 ## [4.1.11] - 2020-01-30
 
 ### Added
