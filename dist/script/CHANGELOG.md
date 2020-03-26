@@ -3,6 +3,18 @@
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [4.1.13] - 2020-03-26
+
+### Added
+- New UK map: `ukCountries*` (consists of England, Scotland, Wales, North Ireland, with Ireland for shape consistency).
+- New timezone-related maps: `worldTimeZones*` (polygons for each time zone used in the world) and `worldTimeZoneAreas*` (land mass areas that use particular time zone).
+- New maps: British Indian Ocean Territory, Cayman Islands, Cocos (Keeling) Islands, Comoros.
+
+### Fixed
+- Typo in map file of Turkmenistan, as well as uppercase "NAME" property, changed to lowercase "name".
+- Some name typos fixed in US County maps.
+
+
 ## [4.1.12] - 2020-02-17
 
 ### Added
