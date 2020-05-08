@@ -651,7 +651,7 @@ var countries2 = {
         "country": "Iran, Islamic Republic of",
         "continent_code": "AS",
         "continent": "Asia",
-        "maps": []
+        "maps": ["iranLow", "iranHigh"]
     },
     "IS": {
         "country": "Iceland",
@@ -849,7 +849,7 @@ var countries2 = {
         "country": "Montenegro",
         "continent_code": "EU",
         "continent": "Europe",
-        "maps": []
+        "maps": ["montenegroLow", "montenegroHigh"]
     },
     "MF": {
         "country": "Saint Martin (French Part)",
@@ -1257,7 +1257,7 @@ var countries2 = {
         "country": "South Sudan",
         "continent_code": "AF",
         "continent": "Africa",
-        "maps": []
+        "maps": ["southSudanLow", "southSudanHigh", "southSudan2015Low", "southSudan2015High"]
     },
     "ST": {
         "country": "Sao Tome and Principe",
@@ -1374,7 +1374,7 @@ var countries2 = {
         "maps": []
     },
     "TW": {
-        "country": "Taiwan, Province of China",
+        "country": "Taiwan",
         "continent_code": "AS",
         "continent": "Asia",
         "maps": []
