@@ -3,6 +3,18 @@
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [4.1.16] - 2020-07-03
+
+### Added
+- New maps: Iraq.
+- New India map: `india2020*` which reflects unified territories Dadra, Nagar, Haveli, Daman, and Diu. Please note that there's no official ISO classification for the newly created territory, so we're using "IN-DNDD" for now.
+
+### Fixed
+- Ohio congressional district map was missing.
+- Fixed spelling of Kyiv (city and district) in Ukrainian maps.
+- Fixed spelling of Eswatini across all maps.
+
+
 ## [4.1.15] - 2020-05-08
 
 ### Added
