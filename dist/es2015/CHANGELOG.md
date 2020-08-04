@@ -3,6 +3,18 @@
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [4.1.17] - 2020-08-04
+
+### Added
+- New maps: Timor-Leste, Trinidad and Tobago, Falkland Islands, Guam, Northern Mariana, Montserrat, Grenada, Martinique, Saint Barthélemy, U.S. Virgin Islands, British Virgin Islands, Guadeloupe, Turks and Caicos Islands, Haiti.
+
+### Fixed
+- Fixed some name typos in Malaysian maps.
+- Fixed IDs and some names in maps of Russia: ID for Tatarstan; ID and name for Altay (Republic); added "Kray" to Altay Kray to distinguish from the name-sake republic.
+- Fixed Polish translation for Myanmar (`lang/PL`).
+- Fixed Chile map: Ñuble region was missing.
+
+
 ## [4.1.16] - 2020-07-03
 
 ### Added
