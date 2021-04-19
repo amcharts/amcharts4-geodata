@@ -3,6 +3,17 @@
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [4.1.20] - 2021-04-19
+
+### Added
+- New maps: Côte d'Ivoire (Ivory Coast), Uganda, Province map of Italy.
+
+### Fixed
+- Fixed polygon IDs for the Congressional district Map of Minnesota.
+- Some countries were missing in data files.
+- Fixed map of Faroe Islands.
+
+
 ## [4.1.19] - 2020-11-11
 
 ### Added
