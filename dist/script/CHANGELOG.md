@@ -3,6 +3,15 @@
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [4.1.21] - 2021-06-23
+
+### Added
+- New Maps: Lesotho, Liberia, Regions of Uganda, French Polynesia, Province map of Ireland, World outline (whole world as a single polygon).
+
+### Fixed
+- Fixed ID and naming issues in the maps of Uganda.
+
+
 ## [4.1.20] - 2021-04-19
 
 ### Added
@@ -12,6 +21,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Fixed polygon IDs for the Congressional district Map of Minnesota.
 - Some countries were missing in data files.
 - Fixed map of Faroe Islands.
+- Fixed map of Svalbard.
 
 
 ## [4.1.19] - 2020-11-11
