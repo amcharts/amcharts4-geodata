@@ -3,6 +3,17 @@
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [4.1.22] - 2021-09-24
+
+### Changed
+- Updated province IDs to recent changes in ISO in a map of South Africa.
+
+### Fixed
+- Fixed Svalbard map.
+- Fixed Nigeria map.
+- Fixed US Congressional maps: Alabama, Florida, Maine, Maryland, Massachusetts, New Jersey, Michigan, Rhode Island, Virginia, Washington.
+
+
 ## [4.1.21] - 2021-06-23
 
 ### Added
