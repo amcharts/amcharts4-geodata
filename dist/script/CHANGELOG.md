@@ -3,6 +3,20 @@
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [4.1.24] - 2022-10-18
+
+### Added
+- New maps: Mauritius.
+- 2022 version of U.S. Congressional District maps (/region/usa/congressional2022).
+
+### Changed
+- Renamed "Turkey" to "Türkiye" in all maps.
+- Saint Kitts and Nevis is now specified as belonging North America in `countries2` data file.
+
+### Fixed
+- Västernorrland and Västmanland had their places switched in the maps of Sweden.
+
+
 ## [4.1.23] - 2022-03-31
 
 ### Added

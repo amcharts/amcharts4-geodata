@@ -733,8 +733,8 @@ var countries2 = {
     },
     "KN": {
         "country": "Saint Kitts and Nevis",
-        "continent_code": "AS",
-        "continent": "Asia",
+        "continent_code": "NA",
+        "continent": "North America",
         "maps": ["stKittsNevisLow", "stKittsNevisHigh"]
     },
     "KW": {
@@ -927,7 +927,7 @@ var countries2 = {
         "country": "Mauritius",
         "continent_code": "AF",
         "continent": "Africa",
-        "maps": []
+        "maps": ["mauritiusLow", "mauritiusHigh"]
     },
     "MV": {
         "country": "Maldives",
@@ -1350,7 +1350,7 @@ var countries2 = {
         "maps": []
     },
     "TR": {
-        "country": "Turkey",
+        "country": "Türkiye",
         "continent_code": "EU",
         "continent": "Europe",
         "maps": ["turkeyLow", "turkeyHigh"]
