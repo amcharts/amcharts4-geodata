@@ -1,7 +1,21 @@
 # amCharts 4 Geo Data Changelog
 
-The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
-and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
+The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/).
+
+Please note, that this project, while following numbering syntax, it DOES NOT
+adhere to [Semantic Versioning](http://semver.org/spec/v2.0.0.html) rules.
+
+## [4.1.30] - 2025-07-10
+
+### Added
+- New map of India: `india2023*`. Contains most recent updates.
+- Congressional map set for US 119th Congress: `region/usa/congressional2025/*`.
+
+### Changed
+- Updated the name of North Macedonia in transaltion files.
+- Updated Shannon county (South Dakota) name/FIPS to Oglala Lakota (FIPS 46102).
+- Updated faulty code for Azores in `portugalRegions` map data.
+
 
 ## [4.1.30] - 2024-07-03
 

@@ -1,0 +1,20 @@
+/**
+ * @license
+ * Copyright (c) 2018 amCharts (Antanas Marcelionis, Martynas Majeris)
+ *
+ * This sofware is provided under multiple licenses. Please see below for
+ * links to appropriate usage.
+ *
+ * Free amCharts linkware license. Details and conditions:
+ * https://github.com/amcharts/amcharts4/blob/master/LICENSE
+ *
+ * One of the amCharts commercial licenses. Details and pricing:
+ * https://www.amcharts.com/online-store/
+ * https://www.amcharts.com/online-store/licenses-explained/
+ *
+ * If in doubt, contact amCharts at contact@amcharts.com
+ *
+ * PLEASE DO NOT REMOVE THIS COPYRIGHT NOTICE.
+ * @hidden
+ */
+am4internal_webpackJsonp(["0c5a"],{zFvU:function(e,o,t){"use strict";Object.defineProperty(o,"__esModule",{value:!0});var i={type:"FeatureCollection",features:[{type:"Feature",geometry:{type:"Polygon",coordinates:[[[-104.905,33.139],[-104.205,33.644],[-103.878,33.672],[-103.949,34.605],[-104.125,35.216],[-105.291,35.216],[-106.03,35.041],[-106.355,35.366],[-106.962,35.218],[-108.492,35.306],[-109.046,35.176],[-109.045,36.999],[-106.87,36.993],[-103.002,37],[-103.043,35],[-103.065,32.727],[-104.609,32.799],[-104.905,33.139]]]},properties:{name:"Congressional District 3",id:"3503",STATEID:"35",CD118:"03",CDSESSION:"118",STATENAME:"New Mexico"},id:"3503"},{type:"Feature",geometry:{type:"Polygon",coordinates:[[[-106.962,35.218],[-106.465,34.811],[-106.416,34.26],[-105.926,34.26],[-105.925,33.826],[-106.374,33.661],[-105.484,33.005],[-104.905,33.139],[-104.609,32.799],[-103.065,32.727],[-103.065,32],[-106.619,32],[-106.528,31.784],[-108.208,31.784],[-108.209,31.333],[-109.05,31.333],[-109.047,34.069],[-109.046,35.176],[-108.492,35.306],[-106.962,35.218]]]},properties:{name:"Congressional District 2",id:"3502",STATEID:"35",CD118:"02",CDSESSION:"118",STATENAME:"New Mexico"},id:"3502"},{type:"Feature",geometry:{type:"Polygon",coordinates:[[[-106.962,35.218],[-106.355,35.366],[-106.03,35.041],[-105.291,35.216],[-104.125,35.216],[-103.949,34.605],[-103.878,33.672],[-104.205,33.644],[-104.905,33.139],[-105.484,33.005],[-106.374,33.661],[-105.925,33.826],[-105.926,34.26],[-106.416,34.26],[-106.465,34.811],[-106.962,35.218]]]},properties:{name:"Congressional District 1",id:"3501",STATEID:"35",CD118:"01",CDSESSION:"118",STATENAME:"New Mexico"},id:"3501"}]};window.am4geodata_region_usa_congressional2025_nmLow=i}},["zFvU"]);
