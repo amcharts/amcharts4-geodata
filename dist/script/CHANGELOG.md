@@ -5,7 +5,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/).
 Please note, that this project, while following numbering syntax, it DOES NOT
 adhere to [Semantic Versioning](http://semver.org/spec/v2.0.0.html) rules.
 
-## [4.1.30] - 2025-07-10
+## [4.1.31] - 2025-07-10
 
 ### Added
 - New map of India: `india2023*`. Contains most recent updates.
